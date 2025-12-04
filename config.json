@@ -1,0 +1,14 @@
+[
+  {
+    "serverId": "db-prod-01",
+    "isEncrypted": false,
+    "publicAccess": true,
+    "passwordPolicy": "weak"
+  },
+  {
+    "serverId": "app-server-02",
+    "isEncrypted": true,
+    "publicAccess": false,
+    "passwordPolicy": "strong"
+  }
+]
