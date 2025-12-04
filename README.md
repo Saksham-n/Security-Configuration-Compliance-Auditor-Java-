@@ -1,4 +1,4 @@
-**# Security-Configuration-Compliance-Auditor-Java
+# Security-Configuration-Compliance-Auditor-Java
 
 A lightweight Java-based security automation tool that audits server configuration files (JSON format) and checks them against predefined security baselines.  
 This project demonstrates how **security control automation** can reduce manual verification effort and improve compliance readiness—directly aligned with ISO 27001 Annex A controls.
